@@ -9,6 +9,8 @@ Most relevant technologies used in this boilerplate:
 - _React_: A Javascript library for building user interfaces.
 - _Typescript_: All the code uses Typescript.
 - _ESLint_: A tool for identifying and reporting on patterns found in ECMAScript/Javascript code.
+- _Webpack5_: A static module bundler for modern Javascript applications.
+- _Babel_: A toolchain for converting ECMAScript code into a backwards compatible version of Javascript in current and older browsers or environments.
 
 # Quick start
 
